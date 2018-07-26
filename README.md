@@ -14,7 +14,7 @@ Install with `gem install assumer`
 
 ### Build from Source ###
 
-1. Clone the repository
+1. Clone the repository (NOTE: this gem will not correctly install without cloning, don't just download a zip)
 1. Change directory into the newly-cloned repository
   * `cd assumer`
 1. Change directory into the `source` folder, where the gem's source code lives
